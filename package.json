@@ -1,10 +1,10 @@
 {
-  "name": "ideahub-first-web-component",
+  "name": "ideahub-icon-toggle",
   "version": "3.0.0-pre.12",
   "flat": true,
   "description": "First element with Polymer 3.0!",
   "main": "index.html",
-  "repository": "https://bitbucket.org/user-feedback-accelerator/ideahub-icon-toggle.git",
+  "repository": "https://github.com/nirajjha84/ideahub-icon-toggle.git",
   "author": "The Polymer Project Authors and Niraj Kumar Jha",
   "license": "BSD-3-Clause",
   "dependencies": {

@@ -1,32 +1,30 @@
-# Build your first Polymer element
+# Project Name
 
-This repo goes with the [Build your first Polymer element tutorial](https://www.polymer-project.org/3.0/start/first-element/intro).
+Ideahub icon toggle button.
 
-## Running the tutorial code
+## Installation
 
-1.  Install pre-requisites for Polymer CLI (git, npm, Node.js). 
+Run locally: use below commands
+        - git clone https://github.com/nirajjha84/ideahub-icon-toggle.git
+        - npm install
+        - polymer serve
 
-    [Full instructions are on the Polymer website.](https://www.polymer-project.org/3.0/docs/tools/polymer-cli).
+## Usage
 
-2.  Install Polymer CLI:
+It can be used to have icon with can toggle on click. Icon is customizable and using polymer iron-icon.
 
-        npm install -g polymer-cli@next
+## Contributing
 
-    [Full instructions are on the Polymer website.](https://www.polymer-project.org/3.0/docs/tools/polymer-cli).
+1. Fork it!
+2. Create your feature branch: `git checkout -b my-new-feature`
+3. Commit your changes: `git commit -am 'Add some feature'`
+4. Push to the branch: `git push origin my-new-feature`
+5. Submit a pull request :D
 
-3.  Clone this repo: 
+## History
 
-        git clone https://github.com/PolymerLabs/polymer-3-first-element.git
+ - 19 April 2019: First commit
 
-4.  Change directory to the top-level project folder and install project dependencies:
+## License
 
-        cd polymer-3-first-element
-        npm install
-        
-5.  To preview your element, run the Polymer development server from the top-level project folder:
-
-        polymer serve --open
-
-## Next steps
-
-Follow the [Build your first Polymer element tutorial](https://www.polymer-project.org/3.0/start/first-element/intro) to get started with Polymer.
+Open source
